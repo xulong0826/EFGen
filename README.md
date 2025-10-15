@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RUMC-CM
 Official implementation of "RUMC: Reward-Guided Monte Carlo Sampling with Uncertainty for De Novo Molecular Generation".
 The paper has been accepted by NTCI 2025. 
@@ -52,3 +53,6 @@ $ source activate rumc
 
   $ python 1ablation.py
 ```
+=======
+# RUMC-CM
+>>>>>>> 47c8d2bf8f7350b537a63b5c37fe7bde650ee383
