@@ -1,6 +1,5 @@
 # RUMC-CM
-Official implementation of "RUMC: Reward-Guided Monte Carlo Sampling with Uncertainty for De Novo Molecular Generation".
-The paper has been accepted by NTCI 2025. 
+Official implementation of "EFGen: An end-to-end Expert-Guided Fragment-level Framework for De Novo Molecular Generation".
 
 # Acknowledgements
 We thank the authors of TenGAN: Pure Transformer Encoders Make an Efficient Discrete GAN for De Novo Molecular Generation for releasing their [code](https://github.com/naruto7283/TenGAN). The code in this repository is based on their source code release TenGAN. If you find this code useful, please consider citing their work.
